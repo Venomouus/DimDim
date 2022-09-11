@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeShare", "LifeShare\LifeShare.csproj", "{C875624D-4712-4346-B53F-50BD0C01F871}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DimDim", "LifeShare\LifeShare.csproj", "{C875624D-4712-4346-B53F-50BD0C01F871}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
